@@ -86,7 +86,7 @@ This ensures that connect all the records and query it.
 
 ## spacex-insights
 - React with React Charts to show insights
-- Please checkout this video on how it works.
+- Please checkout this [video](https://drive.google.com/file/d/15pstQSzmM1rVlsR3t3mMokLtQUJCLSzI/view?usp=sharing) on how it works.
 
 
 
