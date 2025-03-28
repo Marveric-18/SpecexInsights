@@ -1,6 +1,6 @@
 # Welcome to SpaceX Insights
 
-SpaceX Insight is a project build upon SpaceX data - where ETL pipeline works over to extract data related to Launch, Rockets and Payloads and transformed it to show valuable insights.
+SpaceX Insight is a project build upon SpaceX data - where ETL pipeline works over to extract data related to Launch, Rockets and Payloads and transformes it to show valuable insights.
 
 
 ## Prerequisites
