@@ -90,6 +90,19 @@ This ensures that connect all the records and query it.
 
 
 
+## Further Improvements
+
+- Show extra statistics in tabular format.
+- Apply rate limiter on extract stage of ETL pipeline, allowing only 1 call at a time.
+- Apply cache on Backend extract with 24 hours time since spacex data dont get changed that often
+- Track and log ETL job status 
+- Cron job to fetch and refresh/reload data in a timely manner.
+- Handle connection issues while fetching data, handle timeout and delay.
+- Increase insightful data by adding more graphs like orbitwise-risk data.
+- Cache API responses on the frontend to avoid unnecessary re-fetching.
+- Store the relation of Launch, Rocket, and Payload into a separate table to easily fetch data.
+
+
 
 
 
