@@ -29,7 +29,7 @@ class Insights {
       return res.json({ ...payloadStat }).status(200);
     });
 
-    // Launch Frequency by Year
+    // Launch Frequency by Year with Success and Failure counts in each year
     this.router.get("/launch-frequency-by-year", async (req, res) => {
       const allLaunches = await Launch.find({ launch_date: { $ne: null } });
       const frequencyByYear = getLaunchFrequencyByYear(allLaunches);
