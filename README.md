@@ -9,7 +9,7 @@ SpaceX Insight is a project build upon SpaceX data - where ETL pipeline works ov
 
 ## Setup Check
 - Make sure node.js version is installed : In your terminal run node -v
-- Make sure mongodb service is running and is on port 27017 (if different post kindly change db link inside spacex-backend/src/db/index.js
+- Make sure mongodb service is running and is on port 27017 (if different port kindly change db link inside spacex-backend/src/db/index.js
 - Make sure no service is running on PORT 3000 and 8082 on your local
 
 ## How to Run
