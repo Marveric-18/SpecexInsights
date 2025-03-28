@@ -4,7 +4,7 @@ SpaceX Insight is a project build upon SpaceX data - where ETL pipeline works ov
 
 
 ## Prerequisites
-- Node.js Version (18 or above) [Installation Guide]([https://www.mongodb.com/try/download/community](https://nodejs.org/en/download))
+- Node.js Version (18 or above) [Installation Guide](https://nodejs.org/en/download)
 - MongoDB Service [Installation Guide](https://www.mongodb.com/try/download/community)
 
 ## Setup Check
@@ -18,11 +18,11 @@ SpaceX Insight is a project build upon SpaceX data - where ETL pipeline works ov
 - Open SpacexInsight project in your choice of code editor
 - Open Terminal and go to **_spacex-backend_** directoy using **cd spacex-backend**
 - Install dependencies using command **npm run install**
-- run command **npm run start** <ins> If any issue revisit the [Setup checks](#setup-checks)</ins>
+- run command **npm run start** <ins> If any issue revisit the Setup checks</ins>
 ### Start Frontend Service
 - Open another Terminal and go to **_spacex-insights_** directoy using **cd spacex-backend**
 - Install dependencies using command **npm run install**
-- run command **npm run start** <ins> If any issue revisit the [Setup checks](#setup-checks)</ins>
+- run command **npm run start** <ins> If any issue revisit the Setup checks</ins>
 
 
 
